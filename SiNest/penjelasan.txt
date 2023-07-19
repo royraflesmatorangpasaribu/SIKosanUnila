@@ -1,1 +1,5 @@
 server yang di kembangkan menggunakan server local
+Dalam SI ini twrdapat 3 aktor
+Penyewa
+Pemilik
+Admin
